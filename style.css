@@ -1,3 +1,9 @@
+/* OVERRIDE a Bootstrap CLASS */
 .col {
+    height: 100%;
     overflow: hidden;
+}
+
+.text-info {
+    color: rgb(177, 111, 177) !important;
 }
